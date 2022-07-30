@@ -13,7 +13,5 @@ I had some experience with:
 - JS
 ---
 ## **Completed sections of Stage 0:**
-- [ ] <details>
-<summary>General</summary>
-0. Git
-</details>
+### General
+0. [Git basics](https://github.com/kottans/frontend/blob/2022_UA/tasks/git-intro.md)
