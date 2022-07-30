@@ -27,3 +27,4 @@ I had some experience with:
 
 - Completed levels of the game [learngitbranching.js.org](https://learngitbranching.js.org/)
 > The visual examples helped me to understand how branches and HEAD pointer work in Git.
+---
