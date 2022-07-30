@@ -28,3 +28,14 @@ I had some experience with:
 - Completed levels of the game [learngitbranching.js.org](https://learngitbranching.js.org/)
 > The visual examples helped me to understand how branches and HEAD pointer work in Git.
 ---
+
+## Linux CLI, and HTTP
+1. Completed [Linux Survival](https://linuxsurvival.com/):
+<details>
+<summary>Completed lessons</summary>
+images here
+</details>
+<details open>
+<summary>Quiz</summary>
+images here
+</details>
