@@ -11,3 +11,9 @@ I had some experience with:
 - HTML
 - CSS
 - JS
+---
+## **Completed sections of Stage 0:**
+- [ ] <details>
+<summary>General</summary>
+0. Git
+</details>
