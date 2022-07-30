@@ -29,13 +29,49 @@ I had some experience with:
 > The visual examples helped me to understand how branches and HEAD pointer work in Git.
 ---
 
-## Linux CLI, and HTTP
+## Linux CLI and HTTP
 1. Completed [Linux Survival](https://linuxsurvival.com/):
 <details>
 <summary>Completed lessons</summary>
-images here
+  
+![screenshot](/task_linux_cli/page_1.png)
+  
+![screenshot](/task_linux_cli/page_2.png)
+  
+![screenshot](/task_linux_cli/page_3.png)
+  
+![screenshot](/task_linux_cli/page_4.png)
+  
+![screenshot](/task_linux_cli/page_5.png)
+
+![screenshot](/task_linux_cli/page_6.png)
+  
+![screenshot](/task_linux_cli/page_7.png)
+  
+![screenshot](/task_linux_cli/page_8.png)
+  
+![screenshot](/task_linux_cli/page_8_second.png)
+  
+![screenshot](/task_linux_cli/page_9.png)
+  
+![screenshot](/task_linux_cli/page_10.png)
+  
+![screenshot](/task_linux_cli/page_11.png)
+  
+![screenshot](/task_linux_cli/page_12.png)
+  
+![screenshot](/task_linux_cli/page_13.png)
 </details>
-<details open>
+<details>
 <summary>Quiz</summary>
-images here
+
+![screenshot](/task_linux_cli/quiz_1.png)
 </details>
+
+> I used to work with Linux bash before this course so actually I just refreshed my current knowledges.
+
+2. Read articles about HTTP protocol:
+    - [HTTP Part 1](https://code.tutsplus.com/uk/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177)
+    - [HTTP Part 2](https://code.tutsplus.com/uk/tutorials/http-the-protocol-every-web-developer-must-know-part-2--net-31155)
+    > Thanks to these articles, I learned the differences between request methods POST and PUT and this became more clearly to me.
+    > Also, I owerall improved my understanding of how HTTP protocol works and difference between HTTP and HTTPS.
