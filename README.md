@@ -14,4 +14,4 @@ I had some experience with:
 ---
 ## **Completed sections of Stage 0:**
 ### General
--[] Git [Git basics](https://github.com/kottans/frontend/blob/2022_UA/tasks/git-intro.md)
+- [] Git [Git basics](https://github.com/kottans/frontend/blob/2022_UA/tasks/git-intro.md)
