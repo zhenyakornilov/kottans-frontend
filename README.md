@@ -16,4 +16,4 @@ I had some experience with:
 ### General
 0. - [x] [Git basics](https://github.com/kottans/frontend/blob/2022_UA/tasks/git-intro.md)
 1. - [ ] [Linux CLI and Networking](https://github.com/kottans/frontend/blob/2022_UA/tasks/linux-cli-http.md)
-2. - [ ] [VCS (hello gitty), GitHub and Collaboration](VCS (hello gitty), GitHub and Collaboration)
+2. - [ ] [VCS (hello gitty), GitHub and Collaboration](https://github.com/kottans/frontend/blob/2022_UA/tasks/git-collaboration.md)
