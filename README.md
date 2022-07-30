@@ -7,6 +7,7 @@ I created this repository to study with Kottans frontend course. I started this 
 
 I had some experience with:
 - Python
+- Git
 - SQL
 - HTML
 - CSS
@@ -22,3 +23,4 @@ I had some experience with:
 
 ## **Git, GitHub, git flow**
 - Listened week 1 and week 2 of [Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github)
+> I had experience with Git before I took the lectures, but I became more familiar with how the merge command works and how to resolve merge conflicts.
