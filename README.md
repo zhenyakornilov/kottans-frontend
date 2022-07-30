@@ -15,4 +15,4 @@ I had some experience with:
 ## **Completed sections of Stage 0:**
 ### General
 0. - [x] [Git basics](https://github.com/kottans/frontend/blob/2022_UA/tasks/git-intro.md)
-1. - [ ]
+1. - [ ] [Linux CLI and Networking](https://github.com/kottans/frontend/blob/2022_UA/tasks/linux-cli-http.md)
