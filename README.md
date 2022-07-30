@@ -13,5 +13,5 @@ I had some experience with:
 - JS
 ---
 ## **Completed sections of Stage 0:**
-### -[] General
+### General
 0. [Git basics](https://github.com/kottans/frontend/blob/2022_UA/tasks/git-intro.md)
