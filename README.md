@@ -19,6 +19,12 @@ I had some experience with:
 1. - [x] [Linux CLI and Networking](https://github.com/kottans/frontend/blob/2022_UA/tasks/linux-cli-http.md)
 2. - [x] [VCS (hello gitty), GitHub and Collaboration](https://github.com/kottans/frontend/blob/2022_UA/tasks/git-collaboration.md)
 
+### Front-End Basics
+3. - [ ] [Intro to HTML & CSS](https://github.com/kottans/frontend/blob/2022_UA/tasks/html-css-intro.md)
+4. - [ ] [Responsive Web Design](https://github.com/kottans/frontend/blob/2022_UA/tasks/html-css-responsive.md)
+5. - [ ] [HTML & CSS Practice](https://github.com/kottans/frontend/blob/2022_UA/tasks/html-css-popup.md)
+6. - [ ] [JavaScript Basics](https://github.com/kottans/frontend/blob/2022_UA/tasks/js-basics.md)
+7. - [ ] [Document Object Model - practice](https://github.com/kottans/frontend/blob/2022_UA/tasks/js-dom.md)
 ---
 
 ## **Git, GitHub, git flow**
