@@ -73,7 +73,7 @@ I had some experience with:
 2. Read articles about HTTP protocol:
     - [HTTP Part 1](https://code.tutsplus.com/uk/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177)
     - [HTTP Part 2](https://code.tutsplus.com/uk/tutorials/http-the-protocol-every-web-developer-must-know-part-2--net-31155)
-    > Thanks to these articles, I learned the differences between request methods POST and PUT and this became more clearly to me.
+    > Thanks to these articles, I learned the differences between request methods POST and PUT and this became more clearly to me.\
     > Also, I owerall improved my understanding of how HTTP protocol works and difference between HTTP and HTTPS.
 ---
 ## Git Collaboration
@@ -86,6 +86,11 @@ I had some experience with:
         <img src="/task_git_collaboration/listened_lectures/week_3_3.png" width="300" />
       </p>
     </details>
+    
+      > Overall, these lectures were interesting. 
+      > I liked the speaker and I got a better understanding of the difference between `git merge` and `git rebase`. 
+      > I will definitely use the `git rebase` command in the future. <br />
+      > Also, I almost always use short command `git checkout -b branch_name`.
 
     <details>
       <summary>Completed lessons of week 4</summary>
@@ -95,6 +100,9 @@ I had some experience with:
         <img src="/task_git_collaboration/listened_lectures/week_4_3.png" width="300" />
       </p>
     </details>
+    
+      > In this lectures i gained a lot of information about how to collaborate with other developers.  
+      > Additionaly, I used to work with TravisCI before on my Python project to run tests earlier so I am familiar with CI/CD a bit.
 
 2. Completed levels of [Linux Survival](https://linuxsurvival.com/): 
     <details>
@@ -104,3 +112,6 @@ I had some experience with:
 
     ![learngitbranching](/task_git_collaboration/gitbranching/complete_2.png)
     </details>
+    
+      > Tasks about remote branches were quite hurd for me to solve. I guess I need more practise with real repositories,
+      > but still visual examples of branches helped me a lot too.
