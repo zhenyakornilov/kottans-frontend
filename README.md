@@ -119,5 +119,5 @@ I had some experience with:
     ![learngitbranching](/task_git_collaboration/gitbranching/complete_2.png)
     </details>
     
-      > Tasks about remote branches were quite hurd for me to solve. I guess I need more practise with real repositories,
+      > Tasks about remote branches were quite hard for me to solve. I guess I need more practise with real repositories,
       > but still visual examples of branches helped me a lot too.
