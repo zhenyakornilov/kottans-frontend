@@ -75,3 +75,34 @@ I had some experience with:
     - [HTTP Part 2](https://code.tutsplus.com/uk/tutorials/http-the-protocol-every-web-developer-must-know-part-2--net-31155)
     > Thanks to these articles, I learned the differences between request methods POST and PUT and this became more clearly to me.
     > Also, I owerall improved my understanding of how HTTP protocol works and difference between HTTP and HTTPS.
+
+## Git Collaboration
+1. Listened week 3 and week 4 of [Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github):
+    <details>
+    <summary>Completed lessons of week 3</summary>
+
+    ![week_3](/task_git_collaboration/listened_lessons/week_3_1.jpg)
+
+    ![week_3](/task_git_collaboration/listened_lessons/week_3_2.jpg)
+
+    ![week_3](/task_git_collaboration/listened_lessons/week_3_3.jpg)
+    </details>
+
+    <details>
+    <summary>Completed lessons of week 4</summary>
+
+    ![week_3](/task_git_collaboration/listened_lessons/week_4_1.jpg)
+
+    ![week_3](/task_git_collaboration/listened_lessons/week_4_2.jpg)
+
+    ![week_3](/task_git_collaboration/listened_lessons/week_4_3.jpg)
+    </details>
+
+2. Completed levels of [Linux Survival](https://linuxsurvival.com/): 
+    <details>
+    <summary>Levels completed</summary>
+
+    ![learngitbranching](/task_git_collaboration/gitbranching/complete_1.png)
+
+    ![learngitbranching](/task_git_collaboration/gitbranching/complete_2.png)
+    </details>
