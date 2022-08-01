@@ -121,3 +121,32 @@ I had some experience with:
     
       > Tasks about remote branches were quite hard for me to solve. I guess I need more practise with real repositories,
       > but still visual examples of branches helped me a lot too.
+
+## Intro to HTML & CSS
+- Listened lectures of week 1 and week 2 of [HTML, CSS, and Javascript for Web Developers](https://www.coursera.org/learn/html-css-javascript-for-web-developers) course
+
+    <details>
+      <summary>Week 1 - HTML</summary>
+      <p float="left">
+        <img src="/task_html_css_intro/html_1.jpg" width="200" />
+        <img src="/task_html_css_intro/html_2.jpg" width="200" />
+        <img src="/task_html_css_intro/html_3.jpg" width="200" />
+        <img src="/task_html_css_intro/html_4.jpg" width="200" />
+      </p>
+    </details> 
+    
+     > Hello
+      
+    <details>
+      <summary>Week 2 - CSS</summary>
+      <p float="left">
+        <img src="/task_html_css_intro/css_1.jpg" width="200" />
+        <img src="/task_html_css_intro/css_2.jpg" width="200" />
+        <img src="/task_html_css_intro/css_3.jpg" width="200" />
+        <img src="/task_html_css_intro/css_4.jpg" width="200" />
+      </p>
+    </details>
+    
+     > Hello
+
+    
