@@ -123,7 +123,7 @@ I had some experience with:
       > but still visual examples of branches helped me a lot too.
 
 ## Intro to HTML & CSS
-- Listened lectures of week 1 and week 2 of [HTML, CSS, and Javascript for Web Developers](https://www.coursera.org/learn/html-css-javascript-for-web-developers) course
+1. Listened lectures of week 1 and week 2 of [HTML, CSS, and Javascript for Web Developers](https://www.coursera.org/learn/html-css-javascript-for-web-developers) course
 
     <details>
       <summary>Week 1 - HTML</summary>
@@ -148,5 +148,14 @@ I had some experience with:
     </details>
     
      > Hello
+     
+2. Comleted [Learn HTML](https://www.codecademy.com/learn/learn-html)
+3. Completed [Learn CSS](https://www.codecademy.com/learn/learn-css)
+    <details>
+    <summary>HTML & CSS</summary>
+  
+      ![screenshot_codecademy](/task_html_css_intro/codecademy_html_css.png)
+    </details>
+
 
     
