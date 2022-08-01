@@ -20,7 +20,7 @@ I had some experience with:
 2. - [x] [VCS (hello gitty), GitHub and Collaboration](https://github.com/kottans/frontend/blob/2022_UA/tasks/git-collaboration.md)
 
 ### Front-End Basics
-3. - [ ] [Intro to HTML & CSS](https://github.com/kottans/frontend/blob/2022_UA/tasks/html-css-intro.md)
+3. - [x] [Intro to HTML & CSS](https://github.com/kottans/frontend/blob/2022_UA/tasks/html-css-intro.md)
 4. - [ ] [Responsive Web Design](https://github.com/kottans/frontend/blob/2022_UA/tasks/html-css-responsive.md)
 5. - [ ] [HTML & CSS Practice](https://github.com/kottans/frontend/blob/2022_UA/tasks/html-css-popup.md)
 6. - [ ] [JavaScript Basics](https://github.com/kottans/frontend/blob/2022_UA/tasks/js-basics.md)
@@ -135,7 +135,8 @@ I had some experience with:
       </p>
     </details> 
     
-     > Hello
+     > In general, I was already familiar with HTML before I listened to these lectures, so I refreshed my knowledge. 
+     > It was fascinating for me to learn how websites worked before the advent of HTML.
       
     <details>
       <summary>Week 2 - CSS</summary>
@@ -147,7 +148,8 @@ I had some experience with:
       </p>
     </details>
     
-     > Hello
+     > Due to listening to this course, I learned more deeply how to count CSS selector specificity and how to combine them.
+     > It was unexpected for me to know that margin-bottom and margin-top of different elements are not adding to each other.
      
 2. Comleted [Learn HTML](https://www.codecademy.com/learn/learn-html)
 3. Completed [Learn CSS](https://www.codecademy.com/learn/learn-css)
@@ -156,6 +158,9 @@ I had some experience with:
   
       ![screenshot_codecademy](/task_html_css_intro/codecademy_html_css.png)
     </details>
+    
+     > Tasks here weren't tough for me, but `@font-face` is new for me for sure. 
+     > Also, now I have better understanding of how CSS positioning works. Need more practise, I guess...
 
 
     
