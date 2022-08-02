@@ -162,6 +162,50 @@ I had some experience with:
     
      > Tasks here weren't tough for me, but `@font-face` is new for me for sure. 
      > Also, now I have better understanding of how CSS positioning works. Need more practise, I guess...
+  
+---
 
+## Responsive Web Design
+1. Read article [Responsive web design basics](https://web.dev/i18n/en/responsive-web-design-basics/)
+      > From this article, I learned what Responsive web design means and what its purpose is. 
+      > In practice, I did not try to optimize the website for different screens.
+2. Watched lectures about [Flexbox](https://www.youtube.com/playlist?list=PLM6XATa8CAG5mPV60dMmjMRrHVW4LmV2x)
+    <details>
+      <summary>Flexbox</summary>
+  
+      ![flexbox](/task_responsive_web_design/flexbox_listened_lectures.png)
+    </details>
+    
+      > Flexbox is new tool for me. I heard about it before but never used.
+      
+3. Completed the game [Flexbox Froggy](https://flexboxfroggy.com/)
+    <details>
+      <summary>Flexbox Froggy</summary>
+  
+      ![flexbox_froggy](/task_responsive_web_design/flexbox_froggy.png)
+    </details>
+    
+      > The game wasn't that hard, but it helped me to understand better the difference between `justify-content` and `align-items`
+      > and to understand how other properties related to flexbox work as well.
+4. Watched lectures about [CSS Grid](https://www.youtube.com/watch?v=GV92IdMGFfA&list=PLM6XATa8CAG5pXQrW_kDaeZb_uIAMNZIm)
+    <details>
+      <summary>CSS Grid</summary>
+  
+      ![grid](/task_responsive_web_design/grid_listened_lectures.png)
+    </details>
+    
+      > I've never used CSS Grid before, so it's all new things to me and still a bit hard to understand because of lack of practise.
+5. Completed the game [Grid Garden](https://cssgridgarden.com/)
+    <details>
+      <summary>Grid Garden</summary>
+  
+      ![grid garden](/task_responsive_web_design/grid_garden.png)
+    </details>
+      
+      > The game helped to realize better how CSS Grid works and what its use case.
+
+  > To summarize, here I gained a lot of new information since I've never used Flexbox and CSS grid before 
+  > (except using Bootstrap framework where CSS Grid is predefined so I didn't need to write these CSS rules on my own.
+  > I am definetly going to use both Flexbox and CSS Grid in my next task.
 
     
