@@ -74,6 +74,14 @@ I had some experience with:
 ![screenshot](/task_linux_cli/quiz_1.png)
 </details>
 
+<details>
+<summary>Additionally completed quizes 2, 3, 4</summary>
+
+![screenshot](/task_linux_cli/quiz_2.png)
+![screenshot](/task_linux_cli/quiz_3.png)
+![screenshot](/task_linux_cli/quiz_4.png)
+</details>
+
 > I used to work with Linux bash before this course so actually I just refreshed my current knowledges.
 
 2. Read articles about HTTP protocol:
