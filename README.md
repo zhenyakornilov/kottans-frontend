@@ -215,5 +215,33 @@ I had some experience with:
   > To summarize, here I gained a lot of new information since I've never used Flexbox and CSS grid before 
   > (except using Bootstrap framework where CSS Grid is predefined so I didn't need to write these CSS rules on my own.
   > I am definetly going to use both Flexbox and CSS Grid in my next task.
+---
+## HTML & CSS Practice
+- Still in progress here, my solution is not merged yet, working on mistakes :(
+---
+## JS Basics
+1. Listened lectures about [JS](https://www.coursera.org/learn/html-css-javascript-for-web-developers/home/week/4)
 
+    <details>
+      <summary>Week 4 - Introduction to JavaScript</summary>
+      <p float="left">
+        <img src="/task_js_basics/lectures/js_1.jpg" width="200" />
+        <img src="/task_js_basics/lectures/js_2.jpg" width="200" />
+        <img src="/task_js_basics/lectures/js_3.jpg" width="200" />
+        <img src="/task_js_basics/lectures/js_4.jpg" width="200" />
+      </p>
+    </details> 
+    
+2. Completed tasks [freeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
+    
+    <details>
+      <summary>freeCodeCamp tasks</summary>
+  
+      ![JS Basics](/task_js_basics/freecodecamp/basic.png)
+      ![ES6](/task_js_basics/freecodecamp/ES6.png)
+      ![Data Structures](/task_js_basics/freecodecamp/data_structures.png)
+      ![Basic algorithms](/task_js_basics/freecodecamp/basic_algorithms.png)
+      ![Functional programming](/task_js_basics/freecodecamp/functional_programming.png)
+      ![Intermediate algorithms](/task_js_basics/freecodecamp/intermediate_algorithms.png)
+    </details>
     
