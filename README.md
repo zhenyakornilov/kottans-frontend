@@ -245,3 +245,8 @@ I had some experience with:
       ![Intermediate algorithms](/task_js_basics/freecodecamp/intermediate_algorithms.png)
     </details>
     
+      > To begin with, I was familiar with js before a bit, but here I had a lot of practice with functional programming and algorithms. 
+      > It was engaging to know that Array in JavaScript is actually not a separate data type as it is in many 
+      > other programming languages, but just an object. 
+      > Still, things like algorithms and recursions are not easy to me to understand but I'm sure it comes clearer after more practice.
+    
