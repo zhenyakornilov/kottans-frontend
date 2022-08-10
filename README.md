@@ -254,4 +254,29 @@ I had some experience with:
       > It was engaging to know that Array in JavaScript is actually not a separate data type as it is in many 
       > other programming languages, but just an object. 
       > Still, things like algorithms and recursions are not easy to me to understand but I'm sure it comes clearer after more practice.
+      
+---
+## DOM
+1. Listened lectures about [DOM](https://www.coursera.org/learn/html-css-javascript-for-web-developers/home/week/5)
+    
+    <details>
+      <summary>Week 5 - DOM</summary>
+      <img src="/task_js_dom/lectures/dom.jpg" width="200" />
+    </details> 
+    
+      > I've never worked with DOM before, so I need to practise a bit before completing last task of this section.
+      > Now I know that unlike CSS, JS is able to get elemnt in any place of the document.
+2. Completed tasks 12 - 18 [freeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#functional-programming)
+
+    <details>
+      <summary>freeCodeCamp tasks</summary>
+  
+      ![screenshot_tasks](/task_js_dom/freecodecamp/algorithms.png)
+    </details>
+    
+      > I could'nt solve tasks like Fibonacci, Steamroller and Smallest common multiple without hints, 
+      > while actually the others of this six tasks weren't that challenging and I solved them on my own. 
+      > Still, the hardest concept to understand for me is recursions (and algorithms too, of course), 
+      > more precisely they are understandable, but I can't implement them yet whithout hints.
+
     
