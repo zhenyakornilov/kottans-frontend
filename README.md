@@ -217,7 +217,12 @@ I had some experience with:
   > I am definetly going to use both Flexbox and CSS Grid in my next task.
 ---
 ## HTML & CSS Practice
-- Still in progress here, my solution is not merged yet, working on mistakes :(
+- [Demo](https://zhenyakornilov.github.io/kottans_html_css_practise/)
+- [Code base](https://github.com/zhenyakornilov/kottans_html_css_practise)
+
+  > This task was so challenging for me to complete. 
+  > The hardest part for me were CSS Flexbox, CSS Grid and aligning items at all since I never used CSS that much before.
+  > I spent a lot of time doing this task but also I learned a lot new stuff to me.
 ---
 ## JS Basics
 1. Listened lectures about [JS](https://www.coursera.org/learn/html-css-javascript-for-web-developers/home/week/4)
