@@ -25,8 +25,17 @@ I had some experience with:
 5. - [x] [HTML & CSS Practice](https://github.com/kottans/frontend/blob/2022_UA/tasks/html-css-popup.md)
 6. - [x] [JavaScript Basics](https://github.com/kottans/frontend/blob/2022_UA/tasks/js-basics.md)
 7. - [ ] [Document Object Model - practice](https://github.com/kottans/frontend/blob/2022_UA/tasks/js-dom.md)
----
 
+### Advanced Topics
+8. - [ ] [Building a Tiny JS World (pre-OOP)](https://github.com/kottans/frontend/blob/2022_UA/tasks/js-pre-oop.md) - practice
+9. - [ ] [Object oriented JS](https://github.com/kottans/frontend/blob/2022_UA/tasks/js-oop.md) - practice
+10. - [ ] [OOP exercise](https://github.com/kottans/frontend/blob/2022_UA/tasks/js-post-oop.md) - practice
+11. - [ ] [Offline Web Applications](https://github.com/kottans/frontend/blob/2022_UA/tasks/app-design-offline.md) - optional
+12. - [ ] [Memory pair game](https://github.com/kottans/frontend/blob/2022_UA/tasks/memory-pair-game.md) - real project
+13. - [ ] [Website Performance Optimization](https://github.com/kottans/frontend/blob/2022_UA/tasks/app-design-performance.md) - optional
+14. - [ ] [Friends App](https://github.com/kottans/frontend/blob/2022_UA/tasks/friends-app.md) - real project
+
+---
 ## **Git, GitHub, git flow**
 - Listened week 1 and week 2 of [Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github)
 > I had experience with Git before I took the lectures, but I became more familiar with how the merge command works and how to resolve merge conflicts.
