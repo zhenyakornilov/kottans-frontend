@@ -287,5 +287,5 @@ I had some experience with:
       > while actually the others of this six tasks weren't that challenging and I solved them on my own. 
       > Still, the hardest concept to understand for me is recursions (and algorithms too, of course), 
       > more precisely they are understandable, but I can't implement them yet whithout hints.
-
+3. JS-Dom practice - ongoing
     
