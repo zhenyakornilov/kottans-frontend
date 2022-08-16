@@ -288,4 +288,6 @@ I had some experience with:
       > Still, the hardest concept to understand for me is recursions (and algorithms too, of course), 
       > more precisely they are understandable, but I can't implement them yet whithout hints.
 3. JS-Dom practice - ongoing
+- [Demo](https://zhenyakornilov.github.io/kottans-js-dom-practice/)
+- [Code base](https://github.com/zhenyakornilov/kottans-js-dom-practice)
     
