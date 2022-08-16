@@ -290,4 +290,8 @@ I had some experience with:
 3. JS-Dom practice - ongoing
 - [Demo](https://zhenyakornilov.github.io/kottans-js-dom-practice/)
 - [Code base](https://github.com/zhenyakornilov/kottans-js-dom-practice)
-    
+
+---
+## A Tiny JS World (pre-OOP)
+- [Demo](https://zhenyakornilov.github.io/a-tiny-JS-world/)
+- [Code base](https://github.com/zhenyakornilov/a-tiny-JS-world)
