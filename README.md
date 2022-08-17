@@ -27,7 +27,7 @@ I had some experience with:
 7. - [ ] [Document Object Model - practice](https://github.com/kottans/frontend/blob/2022_UA/tasks/js-dom.md)
 
 ### Advanced Topics
-8. - [ ] [Building a Tiny JS World (pre-OOP)](https://github.com/kottans/frontend/blob/2022_UA/tasks/js-pre-oop.md) - practice
+8. - [x] [Building a Tiny JS World (pre-OOP)](https://github.com/kottans/frontend/blob/2022_UA/tasks/js-pre-oop.md) - practice
 9. - [ ] [Object oriented JS](https://github.com/kottans/frontend/blob/2022_UA/tasks/js-oop.md) - practice
 10. - [ ] [OOP exercise](https://github.com/kottans/frontend/blob/2022_UA/tasks/js-post-oop.md) - practice
 11. - [ ] [Offline Web Applications](https://github.com/kottans/frontend/blob/2022_UA/tasks/app-design-offline.md) - optional
