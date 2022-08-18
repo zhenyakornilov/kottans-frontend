@@ -265,7 +265,7 @@ I had some experience with:
       > Still, things like algorithms and recursions are not easy to me to understand but I'm sure it comes clearer after more practice.
       
 ---
-## DOM
+## DOM - ongoing
 1. Listened lectures about [DOM](https://www.coursera.org/learn/html-css-javascript-for-web-developers/home/week/5)
     
     <details>
@@ -296,5 +296,23 @@ I had some experience with:
 - [Demo](https://zhenyakornilov.github.io/a-tiny-JS-world/)
 - [Code base](https://github.com/zhenyakornilov/a-tiny-JS-world)
 ---
-## Object Oriented JS
-1. Listened lectures about OOP classes and prototypes
+## Object Oriented JS - ongoing
+1. Listened lectures about OOP **Classes** and **Prototypes**
+    
+    <details>
+      <summary>OOP Classes and Prototypes</summary>
+  
+      ![screenshot_lesson1](/task_js_oop/lesson_1.png)
+      ![screenshot_lesson1](/task_js_oop/lesson_2.png)
+    </details>
+
+2. Completed Classic Frogger Game (not reviewed yet - ongoing task)
+    - [Demo](https://zhenyakornilov.github.io/kottans-frogger-game-oop/)
+    - [Code base](https://github.com/zhenyakornilov/kottans-frogger-game-oop)
+3. Joined Kottans clan on [Codewars](https://www.codewars.com/) and reached 7kyu
+
+    <details>
+      <summary>OOP Classes and Prototypes</summary>
+  
+      ![screenshot_codewars](/task_js_oop/codewars.png)
+    </details>
