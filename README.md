@@ -295,3 +295,6 @@ I had some experience with:
 ## A Tiny JS World (pre-OOP)
 - [Demo](https://zhenyakornilov.github.io/a-tiny-JS-world/)
 - [Code base](https://github.com/zhenyakornilov/a-tiny-JS-world)
+---
+## Object Oriented JS
+1. Listened lectures about OOP classes and prototypes
