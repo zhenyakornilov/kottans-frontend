@@ -296,7 +296,7 @@ I had some experience with:
 - [Demo](https://zhenyakornilov.github.io/a-tiny-JS-world/)
 - [Code base](https://github.com/zhenyakornilov/a-tiny-JS-world)
 ---
-## Object Oriented JS - ongoing
+## Object Oriented JS
 1. Listened lectures about OOP **Classes** and **Prototypes**
     
     <details>
@@ -306,7 +306,7 @@ I had some experience with:
       ![screenshot_lesson1](/task_js_oop/lesson_2.png)
     </details>
 
-2. Completed Classic Frogger Game (not reviewed yet - ongoing task)
+2. Completed Classic Frogger Game (finally meged (^.^) )
     - [Demo](https://zhenyakornilov.github.io/kottans-frogger-game-oop/)
     - [Code base](https://github.com/zhenyakornilov/kottans-frogger-game-oop)
 3. Joined Kottans clan on [Codewars](https://www.codewars.com/) and reached 7kyu
