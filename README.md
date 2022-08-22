@@ -319,6 +319,7 @@ Updated to OOP version with classes (pre-OOP version in **index_old.js**)
       ![screenshot_codewars](/task_js_oop/codewars.png)
     </details>
 
+---
 ## OOP exercise (Tiny JS World)
 - [Demo](https://zhenyakornilov.github.io/a-tiny-JS-world/)
 - [Code base](https://github.com/zhenyakornilov/a-tiny-JS-world)
