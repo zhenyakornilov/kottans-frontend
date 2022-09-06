@@ -24,7 +24,7 @@ I had some experience with:
 4. - [x] [Responsive Web Design](https://github.com/kottans/frontend/blob/2022_UA/tasks/html-css-responsive.md)
 5. - [x] [HTML & CSS Practice](https://github.com/kottans/frontend/blob/2022_UA/tasks/html-css-popup.md)
 6. - [x] [JavaScript Basics](https://github.com/kottans/frontend/blob/2022_UA/tasks/js-basics.md)
-7. - [ ] [Document Object Model - practice](https://github.com/kottans/frontend/blob/2022_UA/tasks/js-dom.md)
+7. - [x] [Document Object Model - practice](https://github.com/kottans/frontend/blob/2022_UA/tasks/js-dom.md)
 
 ### Advanced Topics
 8. - [x] [Building a Tiny JS World (pre-OOP)](https://github.com/kottans/frontend/blob/2022_UA/tasks/js-pre-oop.md) - practice
@@ -259,13 +259,13 @@ I had some experience with:
       ![Intermediate algorithms](/task_js_basics/freecodecamp/intermediate_algorithms.png)
     </details>
     
-      > To begin with, I was familiar with js before a bit, but here I had a lot of practice with functional programming and algorithms. 
+      > To begin with, I was familiar with JS before a bit, but here I had a lot of practice with functional programming and algorithms. 
       > It was engaging to know that Array in JavaScript is actually not a separate data type as it is in many 
       > other programming languages, but just an object. 
       > Still, things like algorithms and recursions are not easy to me to understand but I'm sure it comes clearer after more practice.
       
 ---
-## DOM - ongoing
+## DOM
 1. Listened lectures about [DOM](https://www.coursera.org/learn/html-css-javascript-for-web-developers/home/week/5)
     
     <details>
@@ -287,9 +287,11 @@ I had some experience with:
       > while actually the others of this six tasks weren't that challenging and I solved them on my own. 
       > Still, the hardest concept to understand for me is recursions (and algorithms too, of course), 
       > more precisely they are understandable, but I can't implement them yet whithout hints.
-3. JS-Dom practice - ongoing
+3. JS-Dom practice
 - [Demo](https://zhenyakornilov.github.io/kottans-js-dom-practice/)
 - [Code base](https://github.com/zhenyakornilov/kottans-js-dom-practice)
+  > I liked this task, I had a lot of practice here and improved my understanding of DOM manipulation.
+  > 
 
 ---
 ## A Tiny JS World (pre-OOP)
@@ -307,6 +309,12 @@ Updated to OOP version with classes (pre-OOP version in **index_old.js**)
       ![screenshot_lesson1](/task_js_oop/lesson_1.png)
       ![screenshot_lesson1](/task_js_oop/lesson_2.png)
     </details>
+    
+      > It was unexpected to know that unlike in Python, classes in JavaScript are primarily 
+      > syntactical sugar over JavaScript's prototype-based inheritance. 
+      > As for me, classes syntax looks more clear than prototype syntax.
+      > The more I learn JavaScript, the more i see difference over Python. 
+      > It is facinating to learn that both Python and JavaScript look similar but have so much differences in detail.
 
 2. Completed Classic Frogger Game (finally meged (^.^) )
     - [Demo](https://zhenyakornilov.github.io/kottans-frogger-game-oop/)
@@ -318,9 +326,13 @@ Updated to OOP version with classes (pre-OOP version in **index_old.js**)
   
       ![screenshot_codewars](/task_js_oop/codewars.png)
     </details>
+    
+      > This task felt confused at start. Thanks to bunch of console errors I understood how to deal with this task :)
 
 ---
 ## OOP exercise (Tiny JS World)
 - [Demo](https://zhenyakornilov.github.io/a-tiny-JS-world/)
 - [Code base](https://github.com/zhenyakornilov/a-tiny-JS-world)
+  > Implementing SOLID principles was the hardest part for me, it's a valuable experience for me. 
+  > Now I have better understanding of SOLID and what its purpose.
 
