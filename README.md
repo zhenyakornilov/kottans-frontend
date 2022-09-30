@@ -351,3 +351,14 @@ Updated to OOP version with classes (pre-OOP version in **index_old.js**)
    > chapter couldn't help me. For sure, I need to rewatch this course as I still don't quite understood the IndexedDB section. 
    > A little practice might help me too, I guess.
 
+---
+## Memory Pair Game - not merged yet
+- [Demo](https://zhenyakornilov.github.io/kottans-mpg/)
+- [Code base](https://github.com/zhenyakornilov/kottans-mpg)
+
+---
+## Website Performance Optimization - ongoing 
+---
+## Friends App - not merged yet
+- [Demo](https://zhenyakornilov.github.io/kottans-friendsApp/)
+- [Code base](https://github.com/zhenyakornilov/kottans-friendsApp)
