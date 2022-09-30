@@ -336,3 +336,18 @@ Updated to OOP version with classes (pre-OOP version in **index_old.js**)
   > Implementing SOLID principles was the hardest part for me, it's a valuable experience for me. 
   > Now I have better understanding of SOLID and what its purpose.
 
+---
+## Offline Web Applications
+  
+  <details>
+  <summary>Udacity Offline Web Applications</summary>
+  
+  ![complete_course_screenshot](/task_offline_web_app/offline_web_apps.png)
+  </details>
+  
+   > I got a lot of new information in this course. Now I understand how web pages are able to load content even if connection is lost or too slow.
+   > Everething in this course was new to me. I heard about caching before but didn't know hot to implement.
+   > Some cons of this course is that it is outdated. I wasted some time to make starting files work on my machine and even course repo troubleshooting 
+   > chapter couldn't help me. For sure, I need to rewatch this course as I still don't quite understood the IndexedDB section. 
+   > A little practice might help me too, I guess.
+
